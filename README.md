@@ -1,6 +1,23 @@
-# Et si — Généthon
+# Et si Généthon explorait les données biologiques avec l’IA ?
 
-Explorez une enquête sur les mécanismes modificateurs de la dystrophie musculaire de Duchenne. Ce scénario indépendant ne décrit pas un projet réel de Généthon. La piste principale est déjà connue ; les calculs sont descriptifs et ne la valident pas biologiquement.
+**De publications scientifiques à une hypothèse que l’on peut examiner : entrez dans une enquête sur la dystrophie musculaire de Duchenne.**
+
+Comment relier des résultats dispersés, demander à une IA plusieurs explications, puis confronter ses propositions à des données réelles ? Ce projet de **GenerativSchool** vous donne les pièces de l’enquête : sources, données, code, réponses du modèle et calculs reproductibles.
+
+**[Lire l’article et suivre la construction](https://www.generativschool.com/genethon-atlas-documentaire-avant-ia.html)** · [Voir l’exemple de bout en bout](gen26-duchenne-v1/EXEMPLE.md) · [Découvrir les autres articles](https://www.generativschool.com/experiences.html)
+
+## Ce que vous allez explorer
+
+| Étape | Ce que vous pouvez examiner |
+| --- | --- |
+| Partir des preuves | Un corpus de publications, leurs résultats et leurs limites |
+| Ouvrir plusieurs pistes | Les hypothèses proposées par l’IA, leurs objections et les corrections de revue |
+| Revenir aux données | 22 biopsies, 13 sondes et une comparaison descriptive des groupes |
+| Préparer la suite | Ce qui ferait abandonner une hypothèse ou justifier une autre étude |
+
+Vous pouvez **reproduire les calculs hors ligne**, sans compte modèle ni dépendance Python externe, ou lire les fichiers pour comprendre les choix. Le rejeu de la génération IA est un parcours séparé et facultatif.
+
+Cette exploration indépendante ne décrit pas un projet réel de Généthon. La piste principale est déjà connue : les calculs aident à examiner une question, ils ne démontrent ni mécanisme causal ni bénéfice clinique.
 
 ## Lire et comprendre
 
