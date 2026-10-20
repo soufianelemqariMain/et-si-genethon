@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-10-20T12:15:37.885839+00:00",
+  "cli_installed_version": "0.156.1",
+  "adapterType": "codex_local",
+  "agent_config_model": null,
+  "generation_transport": "active Codex session; output authored in tool call during actual inference",
+  "input_context": "assignment + source tool responses + actual analyze.py results; not an isolated blind prompt",
+  "output_sha256": "f6e8128cbcb69a383cece88ca9e37823f37d4971a7c975304fc5d23c2a154509",
+  "limits": [
+    "server snapshot, sampling parameters, remote compute, token usage and billed cost unavailable",
+    "no independent model invocation or deterministic generative replay claimed",
+    "replay_prompt is reconstructed for reuse, not original full prompt"
+  ],
+  "distribution_note": "Coordination identifiers removed; scientific output unchanged."
+}

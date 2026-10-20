@@ -1,0 +1,108 @@
+{
+  "excluded_count": 18,
+  "exclusion_categories": [
+    "coordination documents",
+    "virtual environment",
+    "previous personal output",
+    "superseded manifests"
+  ],
+  "modified": [
+    {
+      "file": "gen26-duchenne-v1/REPORT.md",
+      "action": "modified",
+      "original_sha256": "f3d0c15c04cf256ae6c9ef1074fffd095511983dd84eea4ba531d64454669ff5",
+      "distributed_sha256": "202918983f9dd7df2d8516a1a024ec96df6716cae33232334a2e69c1d2519fa8"
+    },
+    {
+      "file": "gen26-duchenne-v1/README.md",
+      "action": "modified",
+      "original_sha256": "e50f81e7114ec8db2e5a4320ba10505e4300abb0fb590f7ea665a7f20db4a2c0",
+      "distributed_sha256": "761c4187208ab142c6a799edc75c90e8060737792f286d94f5ca7e8eb7aaff94"
+    },
+    {
+      "file": "gen26-duchenne-v1/validation.json",
+      "action": "modified",
+      "original_sha256": "8eada922ddfeddf21f33cfd5eee39ab5a027a4a8a61fd02e166bfe9781a74eba",
+      "distributed_sha256": "a18ec7edd9df515de37f6ae0a35a850237e7c4a7b3fd64beb6683587425151a7"
+    },
+    {
+      "file": "gen26-duchenne-v1/MANIFEST.json",
+      "action": "modified",
+      "original_sha256": "0025f87070e0806978efac6208dcc215810f0a67e6080cce846607f5fa74d515",
+      "distributed_sha256": "fba922a3ade6ab7b2a59329a1e055c3d13a7aafa7c36beddafade73982530cd5"
+    },
+    {
+      "file": "gen26-duchenne-v1/SEARCH_LOG.md",
+      "action": "modified",
+      "original_sha256": "b9bcb94354529863558cda26cce9e5046aa5f2fe04c5b9e2248603de195f8e63",
+      "distributed_sha256": "f6b96abb778ef5c08d4fe1d37539a3c25e4f1025c0b0f9529ff60aa9ec4c374a"
+    },
+    {
+      "file": "gen26-duchenne-v1/PROTOCOL.md",
+      "action": "modified",
+      "original_sha256": "b505d03839db7b626bd96d9a29014eaab28d6e3a1d9dafa622ee867ac2ab6251",
+      "distributed_sha256": "ecd3ae7912dc1ae846a298276d3e546f4b04a6a9ad3615f3de7920764aadcc74"
+    },
+    {
+      "file": "gen26-duchenne-v1/model/execution.json",
+      "action": "modified",
+      "original_sha256": "a17952640067eb877ee5bd9021fc5410e7c7021b02ae8adf7f5273d3882e06bb",
+      "distributed_sha256": "3f0a5e51326de0f4d6ae3c110447f585f49b7d871b3281cf5a1858da91dfa987"
+    },
+    {
+      "file": "gen26-duchenne-v1/runs/clean-2/selected_values.csv",
+      "action": "modified",
+      "original_sha256": "4be3b8caa1750862833a6741da6ac12b8b597954def9224b9b8a40855aed1bf4",
+      "distributed_sha256": "3ea71cb14e3a022fdc1c103f08eb52c4b2df68eed842eb2dd1c5001177c0fd6a"
+    },
+    {
+      "file": "gen26-duchenne-v1/runs/clean-2/contrasts.csv",
+      "action": "modified",
+      "original_sha256": "7ac65836c0ed30befd6912b896ece239059bbafc382bdd1b12fa060125da214b",
+      "distributed_sha256": "a99c5c4cc0bbb7906682a7c5d34356ba8f1272d67e1791da84ac8393d944f26e"
+    },
+    {
+      "file": "gen26-duchenne-v1/runs/clean-2/sensitivity.csv",
+      "action": "modified",
+      "original_sha256": "c8d355655cc833c0692219eb86ba405961a7cdeef6b9edbe95645133acfdc001",
+      "distributed_sha256": "98bd7531e9f377e3ceb0950de23d7764d74f504d3b19bdeac3b919ce05d41af3"
+    },
+    {
+      "file": "gen26-review-v2/README.md",
+      "action": "modified",
+      "original_sha256": "af071db270c59ab06e64c2e9250018e43f0212be45014ae1d127476261ffc650",
+      "distributed_sha256": "3a1be726cbc6e334e8904bdcaabda75e6e5bf5fef3a0e828a2cad363e8649e67"
+    },
+    {
+      "file": "gen26-review-v2/MANIFEST.json",
+      "action": "modified",
+      "original_sha256": "14cee5aa4441aaf8bbe6930d3f7ff607161acbfb3d44adb68a8b5a747d3bd375",
+      "distributed_sha256": "d548d58d9af859fea2d28fca8112881a4072efc12657e1f2ea902290f7f164a0"
+    },
+    {
+      "file": "gen26-review-v2/REVIEW.md",
+      "action": "modified",
+      "original_sha256": "2c9f11af011bc45f01dc01b1d52a793648ef5bab83fb8a3cc8e27ace045731b7",
+      "distributed_sha256": "0ca6074d4b3da063e3c8fa35aed79ed546366f192032bc60a88e85b9b09c7999"
+    },
+    {
+      "file": "gen26-review-v2/model/assessment.json",
+      "action": "modified",
+      "original_sha256": "988d5ef953cf9ac0ea0c4dab99ce65df51f7fb235de13c83e89f01d741969756",
+      "distributed_sha256": "6322c59c8d52f0da3353e42a3db686c331276ab27675e67246c5e697b31cb856"
+    },
+    {
+      "file": "gen26-review-v2/model/events.jsonl",
+      "action": "modified",
+      "original_sha256": "144184a44f611cd07dd42e33ae90674051141b807aee95fef552ef9972c88232",
+      "distributed_sha256": "b1227b12244606c40353e1b43211796877fcbc5d5cbbe7724c6d0ee85f867af2"
+    },
+    {
+      "file": "gen26-review-v2/model/execution.json",
+      "action": "modified",
+      "original_sha256": "9890a4108771dd51d46c466bef2251fe5dbdd265e287bae84085dab26e7fbaae",
+      "distributed_sha256": "13d82d4fcb31fae0db19fc5c4277242ee86630a88fea6408bb88a9c413708ecc"
+    }
+  ],
+  "scientific_data_and_raw_model_input_output": "unchanged; checked against originals"
+}

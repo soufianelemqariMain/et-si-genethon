@@ -1,0 +1,24 @@
+{
+  "technical_checks": {
+    "valid_json": true,
+    "three_candidates": true,
+    "references_in_corpus": true,
+    "no_tool_calls_in_returned_events": true
+  },
+  "usage_as_returned": {
+    "input_tokens": 19510,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 2058,
+    "reasoning_output_tokens": 40
+  },
+  "reviewer": "Auto-revue assistée IA",
+  "semantic_review": {
+    "H1_retained": "convergence avec v1 sur question génétique–traitement, antériorité et cohorte indépendante",
+    "rejected": "formulation universelle causale LTBP4/THBS1 explicitement écartée dans H1 ; pas une reprise identique de H2 SPP1 de v1",
+    "new_H2": "regroupe composition cellulaire et spécificité des sondes ; correspond en partie à H3 v1",
+    "new_H3": "distingue activité protéique et expression ; proposition expérimentale non exécutée",
+    "unsupported_claims": "aucune découverte ni causalité acquise revendiquée ; hypothèse fonctionnelle LTBP4 reste à tester"
+  },
+  "strict_reproducibility": "non satisfaite : identité du modèle servi, snapshot et contexte serveur non exposés"
+}

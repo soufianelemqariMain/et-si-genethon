@@ -1,0 +1,57 @@
+{
+  "zip_crc_ok": true,
+  "fresh_venv": true,
+  "restored_copy": true,
+  "exact_numerical_reproduction": true,
+  "corrupt_input_rejected": true,
+  "records": [
+    {
+      "command": [
+        "/Library/Developer/CommandLineTools/usr/bin/python3",
+        "-m",
+        "venv",
+        "--without-pip",
+        "<temporary-directory>/venv"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "",
+      "wall_seconds": 0.09771825
+    },
+    {
+      "command": [
+        "<temporary-directory>/python",
+        "-B",
+        "verify.py"
+      ],
+      "returncode": 0,
+      "stdout": "{\"sample_count\": 22, \"matrix_rows\": 54675, \"annotation_rows\": 54675, \"selected_probes\": 13}\nPASS: empreintes, reproduction num\u00e9rique exacte, r\u00e9f\u00e9rences mod\u00e8le autoris\u00e9es. Pas une validation biologique.\n",
+      "stderr": "",
+      "wall_seconds": 0.7568474999999999
+    },
+    {
+      "command": [
+        "<temporary-directory>/python",
+        "-B",
+        "analyze.py",
+        "--out",
+        "runs/mon-essai"
+      ],
+      "returncode": 0,
+      "stdout": "{\"sample_count\": 22, \"matrix_rows\": 54675, \"annotation_rows\": 54675, \"selected_probes\": 13}\n",
+      "stderr": "",
+      "wall_seconds": 0.7495021669999999
+    },
+    {
+      "command": [
+        "python",
+        "-B",
+        "verify.py",
+        "(after deliberate local data corruption)"
+      ],
+      "returncode": 1,
+      "stderr": "Traceback (most recent call last):\n  File \"<temporary-directory>/verify.py\", line 8, in <module>\n    if hashlib.sha256(p.read_bytes()).hexdigest()!=expected: raise ValueError('Empreinte incorrecte : '+name)\nValueError: Empreinte incorrecte : data/weiss2018_table1.csv\n",
+      "expected_rejection": true
+    }
+  ]
+}

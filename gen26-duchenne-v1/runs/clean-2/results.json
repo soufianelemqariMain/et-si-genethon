@@ -1,0 +1,3166 @@
+{
+  "matrix_rows": 54675,
+  "annotation_rows": 54675,
+  "selected_probes": 13,
+  "sample_count": 22,
+  "metadata": {
+    "!Sample_title": [
+      [
+        "control biological rep1",
+        "control biological rep2",
+        "control biological rep3",
+        "control biological rep4",
+        "control biological rep5",
+        "control biological rep6",
+        "DMD biological rep1",
+        "DMD biological rep2",
+        "DMD biological rep3",
+        "DMD biological rep4",
+        "DMD biological rep5",
+        "DMD biological rep6",
+        "DMD biological rep7",
+        "DMD biological rep8",
+        "DMD biological rep9",
+        "DMD biological rep10",
+        "DMD biological rep11",
+        "DMD biological rep12",
+        "DMD biological rep13",
+        "DMD biological rep14",
+        "DMD biological rep15",
+        "DMD biological rep16"
+      ]
+    ],
+    "!Sample_geo_accession": [
+      [
+        "GSM941830",
+        "GSM941831",
+        "GSM941832",
+        "GSM941833",
+        "GSM941834",
+        "GSM941835",
+        "GSM941836",
+        "GSM941837",
+        "GSM941838",
+        "GSM941839",
+        "GSM941840",
+        "GSM941841",
+        "GSM941842",
+        "GSM941843",
+        "GSM941844",
+        "GSM941845",
+        "GSM941846",
+        "GSM941847",
+        "GSM941848",
+        "GSM941849",
+        "GSM941850",
+        "GSM941851"
+      ]
+    ],
+    "!Sample_status": [
+      [
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016",
+        "Public on Jul 01 2016"
+      ]
+    ],
+    "!Sample_submission_date": [
+      [
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012",
+        "Jun 01 2012"
+      ]
+    ],
+    "!Sample_last_update_date": [
+      [
+        "Dec 09 2019",
+        "Dec 09 2019",
+        "Dec 09 2019",
+        "Dec 09 2019",
+        "Dec 09 2019",
+        "Dec 09 2019",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016",
+        "Jul 01 2016"
+      ]
+    ],
+    "!Sample_type": [
+      [
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA",
+        "RNA"
+      ]
+    ],
+    "!Sample_channel_count": [
+      [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1"
+      ]
+    ],
+    "!Sample_source_name_ch1": [
+      [
+        "control_muscle biopsy",
+        "control_muscle biopsy",
+        "control_muscle biopsy",
+        "control_muscle biopsy",
+        "control_muscle biopsy",
+        "control_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy",
+        "DMD_muscle biopsy"
+      ]
+    ],
+    "!Sample_organism_ch1": [
+      [
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens",
+        "Homo sapiens"
+      ]
+    ],
+    "!Sample_characteristics_ch1": [
+      [
+        "sample type: CONTROL",
+        "sample type: CONTROL",
+        "sample type: CONTROL",
+        "sample type: CONTROL",
+        "sample type: CONTROL",
+        "sample type: CONTROL",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient",
+        "sample type: Duchenne muscular dystrophy (DMD) patient"
+      ],
+      [
+        "age: unknown",
+        "age: unknown",
+        "age: unknown",
+        "age: unknown",
+        "age: unknown",
+        "age: unknown",
+        "age: 11mo",
+        "age: 4yrs",
+        "age: 1yr 8mo",
+        "age: 4yrs",
+        "age: 8yrs",
+        "age: 5yrs",
+        "age: 6yrs",
+        "age: 5yrs",
+        "age: 4yrs",
+        "age: 3yrs",
+        "age: 3yrs",
+        "age: 1yr 11mo",
+        "age: 1yrs",
+        "age: 2yrs",
+        "age: 3yr 7mo",
+        "age: 7yrs"
+      ],
+      [
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle",
+        "tissue: skeletal muscle"
+      ]
+    ],
+    "!Sample_growth_protocol_ch1": [
+      [
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic",
+        "biopsy sample in clinic"
+      ]
+    ],
+    "!Sample_molecule_ch1": [
+      [
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA",
+        "total RNA"
+      ]
+    ],
+    "!Sample_extract_protocol_ch1": [
+      [
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer",
+        "Trizol extraction of total RNA per manufacturer"
+      ]
+    ],
+    "!Sample_label_ch1": [
+      [
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin",
+        "biotin"
+      ]
+    ],
+    "!Sample_label_protocol_ch1": [
+      [
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA",
+        "Biotinylated cRNA prepared, hybridized, and scanned using Affymetrix standard protocol from 1ug RNA"
+      ]
+    ],
+    "!Sample_taxid_ch1": [
+      [
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606",
+        "9606"
+      ]
+    ],
+    "!Sample_hyb_protocol": [
+      [
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol",
+        "cRNA hybridization per Affymetrix standard protocol"
+      ]
+    ],
+    "!Sample_scan_protocol": [
+      [
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform",
+        "Gene arrays were scanned on Affymetrix platform"
+      ]
+    ],
+    "!Sample_description": [
+      [
+        "CTRL_Pos-1UP",
+        "CTRL_Pos-2UP",
+        "CTRL_Pos-3UP",
+        "CTRL_Pos-4UP",
+        "CTRL_Pos-5UP",
+        "CTRL_Pos-6UP",
+        "DMD_Pos-11UP",
+        "DMD_Pos-12UP",
+        "DMD_Pos-13UP",
+        "DMD_Pos-14UP",
+        "DMD_Pos-15UP",
+        "DMD_Pos-16UP",
+        "DMD_Pos-17UP",
+        "DMD_Pos-1UP",
+        "DMD_Pos-2UP",
+        "DMD_Pos-3UP",
+        "DMD_Pos-4UP",
+        "DMD_Pos-5UP",
+        "DMD_Pos-6UP",
+        "DMD_Pos-7UP",
+        "DMD_Pos-8UP",
+        "DMD_Pos-9UP"
+      ],
+      [
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data",
+        "gene expression data"
+      ]
+    ],
+    "!Sample_data_processing": [
+      [
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor.",
+        "The data were normalized using gcrma R package (v.2.20.0) from Bioconductor."
+      ]
+    ],
+    "!Sample_platform_id": [
+      [
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570",
+        "GPL570"
+      ]
+    ],
+    "!Sample_contact_name": [
+      [
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey",
+        "Susan,G,Dorsey"
+      ]
+    ],
+    "!Sample_contact_email": [
+      [
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu",
+        "sdorsey@son.umaryland.edu"
+      ]
+    ],
+    "!Sample_contact_department": [
+      [
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science",
+        "Pain and Translational Symptom Science"
+      ]
+    ],
+    "!Sample_contact_institute": [
+      [
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore",
+        "University of Maryland Baltimore"
+      ]
+    ],
+    "!Sample_contact_address": [
+      [
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street",
+        "655 West Lombard Street"
+      ]
+    ],
+    "!Sample_contact_city": [
+      [
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore",
+        "Baltimore"
+      ]
+    ],
+    "!Sample_contact_zip/postal_code": [
+      [
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201",
+        "21201"
+      ]
+    ],
+    "!Sample_contact_country": [
+      [
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA",
+        "USA"
+      ]
+    ],
+    "!Sample_supplementary_file": [
+      [
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941830/suppl/GSM941830_MIDO-CTRL_Pos-1UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941831/suppl/GSM941831_MIDO-CTRL_Pos-2UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941832/suppl/GSM941832_MIDO-CTRL_Pos-3UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941833/suppl/GSM941833_MIDO-CTRL_Pos-4UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941834/suppl/GSM941834_MIDO-CTRL_Pos-5UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941835/suppl/GSM941835_MIDO-CTRL_Pos-6UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941836/suppl/GSM941836_MIDO-DMD_Pos-11UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941837/suppl/GSM941837_MIDO-DMD_Pos-12UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941838/suppl/GSM941838_MIDO-DMD_Pos-13UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941839/suppl/GSM941839_MIDO-DMD_Pos-14UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941840/suppl/GSM941840_MIDO-DMD_Pos-15UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941841/suppl/GSM941841_MIDO-DMD_Pos-16UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941842/suppl/GSM941842_MIDO-DMD_Pos-17UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941843/suppl/GSM941843_MIDO-DMD_Pos-1UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941844/suppl/GSM941844_MIDO-DMD_Pos-2UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941845/suppl/GSM941845_MIDO-DMD_Pos-3UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941846/suppl/GSM941846_MIDO-DMD_Pos-4UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941847/suppl/GSM941847_MIDO-DMD_Pos-5UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941848/suppl/GSM941848_MIDO-DMD_Pos-6UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941849/suppl/GSM941849_MIDO-DMD_Pos-7UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941850/suppl/GSM941850_MIDO-DMD_Pos-8UP.CEL.gz",
+        "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM941nnn/GSM941851/suppl/GSM941851_MIDO-DMD_Pos-9UP.CEL.gz"
+      ]
+    ],
+    "!Sample_data_row_count": [
+      [
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675",
+        "54675"
+      ]
+    ],
+    "!Sample_relation": [
+      [
+        "Reanalyzed by: GSE141690",
+        "Reanalyzed by: GSE141690",
+        "Reanalyzed by: GSE141690",
+        "Reanalyzed by: GSE141690",
+        "Reanalyzed by: GSE141690",
+        "Reanalyzed by: GSE141690",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "contrasts": [
+    {
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 2.261654813,
+      "median_control": 2.261654813,
+      "delta_medians": 0.0,
+      "min_dmd": 2.261654813,
+      "max_dmd": 2.477266954,
+      "min_control": 2.261654813,
+      "max_control": 2.387741682
+    },
+    {
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 2.262628686,
+      "median_control": 2.262628686,
+      "delta_medians": 0.0,
+      "min_dmd": 2.262425604,
+      "max_dmd": 2.54799326,
+      "min_control": 2.262425604,
+      "max_control": 2.781637049
+    },
+    {
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 5.066324606,
+      "median_control": 4.063470514,
+      "delta_medians": 1.0028540920000006,
+      "min_dmd": 4.726346167,
+      "max_dmd": 7.480849684,
+      "min_control": 3.376978286,
+      "max_control": 4.811638189
+    },
+    {
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 6.3243250465,
+      "median_control": 4.0322516845,
+      "delta_medians": 2.292073362,
+      "min_dmd": 4.756420117,
+      "max_dmd": 8.954542456,
+      "min_control": 3.371132288,
+      "max_control": 5.354581388
+    },
+    {
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 8.275944712000001,
+      "median_control": 4.764306735,
+      "delta_medians": 3.5116379770000012,
+      "min_dmd": 6.529322759,
+      "max_dmd": 10.49627458,
+      "min_control": 3.160109528,
+      "max_control": 6.309450205
+    },
+    {
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 7.4143915465,
+      "median_control": 7.4369616335,
+      "delta_medians": -0.022570087000000072,
+      "min_dmd": 6.644787053,
+      "max_dmd": 8.478075546,
+      "min_control": 7.151286913,
+      "max_control": 8.36360397
+    },
+    {
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 8.8046455475,
+      "median_control": 2.535368973,
+      "delta_medians": 6.269276574499999,
+      "min_dmd": 6.526946827,
+      "max_dmd": 11.33533503,
+      "min_control": 2.34188077,
+      "max_control": 2.805918754
+    },
+    {
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 5.757005919,
+      "median_control": 6.025109441,
+      "delta_medians": -0.26810352199999965,
+      "min_dmd": 5.194599386,
+      "max_dmd": 6.528394772,
+      "min_control": 5.667590889,
+      "max_control": 6.822331362
+    },
+    {
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 4.966326519000001,
+      "median_control": 5.811293546,
+      "delta_medians": -0.8449670269999991,
+      "min_dmd": 4.528251654,
+      "max_dmd": 6.627772998,
+      "min_control": 4.93722069,
+      "max_control": 6.999901294
+    },
+    {
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 2.261654813,
+      "median_control": 2.261654813,
+      "delta_medians": 0.0,
+      "min_dmd": 2.261654813,
+      "max_dmd": 2.266753516,
+      "min_control": 2.261654813,
+      "max_control": 2.261654813
+    },
+    {
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 2.261654813,
+      "median_control": 2.2780078369999996,
+      "delta_medians": -0.016353023999999827,
+      "min_dmd": 2.261654813,
+      "max_dmd": 2.261654813,
+      "min_control": 2.261654813,
+      "max_control": 3.189671994
+    },
+    {
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 2.261654813,
+      "median_control": 2.261654813,
+      "delta_medians": 0.0,
+      "min_dmd": 2.261654813,
+      "max_dmd": 2.973719143,
+      "min_control": 2.261654813,
+      "max_control": 2.261654813
+    },
+    {
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "n_dmd": 16,
+      "n_control": 6,
+      "median_dmd": 2.261654813,
+      "median_control": 2.261654813,
+      "delta_medians": 0.0,
+      "min_dmd": 2.261654813,
+      "max_dmd": 2.486087217,
+      "min_control": 2.261654813,
+      "max_control": 2.261654813
+    }
+  ],
+  "selected_values": [
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.387741682
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.263616439
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.26831772
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.283659808
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.309677441
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.269513441
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.477266954
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "1568574_x_at",
+      "gene": "SPP1",
+      "value": 2.278310163
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262425604
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.346956991
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.781637049
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262425604
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.438658398
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262425604
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.283296291
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.316603777
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.54799326
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.339535115
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262425604
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "201107_s_at",
+      "gene": "THBS1",
+      "value": 2.262628686
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 3.49761694
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 3.376978286
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.811638189
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 3.608070257
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.554655136
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.518870771
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 5.001278594
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 5.418050221
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 5.638843863
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.777775234
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.875066447
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.909181803
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 5.934977581
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 7.420691215
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 5.146598768
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 7.480849684
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.947146686
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.726346167
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.930885645
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 4.76460407
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 5.131370618
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "201108_s_at",
+      "gene": "THBS1",
+      "value": 5.2732862
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 4.345840664
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 3.371132288
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 5.354581388
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 3.718662705
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 4.437071761
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 3.718662705
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.293391584
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 7.203931365
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.100866912
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 4.756420117
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.030642629
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 5.341919974
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.982769803
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 8.835594963
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.518474232
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 8.954542456
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 7.465831769
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.076171909
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.334025008
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 4.886392596
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.590727247
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "201109_s_at",
+      "gene": "THBS1",
+      "value": 6.314625085
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 5.295809319
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 3.920845371
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 6.309450205
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 3.160109528
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 4.51273414
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 5.01587933
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.328874323
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.611778239
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 7.880315325
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 6.911592661
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 7.856157632
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 6.529322759
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.364907453
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 10.29588034
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.482391299
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 10.49627458
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.731422634
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 7.977835813
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.322422414
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 7.606298106
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.152747823
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "201110_s_at",
+      "gene": "THBS1",
+      "value": 8.22946701
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.151286913
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.174890173
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 8.36360397
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.717682143
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.432999435
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.440923832
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.675884364
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.423413514
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.39672973
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 6.644787053
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.39672973
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.39672973
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 6.880572088
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.370045947
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.405369579
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.324537345
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.625404703
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.99430703
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.796886609
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 8.478075546
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 8.235646623
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "204442_x_at",
+      "gene": "LTBP4",
+      "value": 7.566750441
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 2.535368973
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 2.535368973
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 2.535368973
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 2.34188077
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 2.34188077
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 2.805918754
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 10.33430485
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 7.629207711
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 9.678432704
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 8.997217045
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 8.44581703
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 9.480487788
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 8.152857
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 11.04739872
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 10.30084799
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 11.00349713
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 8.61207405
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 6.526946827
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 8.353855617
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 6.578046944
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 8.265532014
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "209875_s_at",
+      "gene": "SPP1",
+      "value": 11.33533503
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.667590889
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.863926859
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 6.500181373
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.667590889
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 6.186292023
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 6.822331362
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 6.032790117
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.790933243
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.636045056
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.194599386
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.667590889
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.679024654
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.618663277
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.670870631
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.934835094
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.754042568
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.746418496
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 6.187832091
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.75996927
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 6.25878901
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 6.528394772
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "210628_x_at",
+      "gene": "LTBP4",
+      "value": 5.762460412
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.93722069
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 6.03659545
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 6.999901294
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.769227934
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.72119384
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.853359158
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.417251734
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.963484216
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.833975827
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.93722069
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.528251654
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.884754924
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.667829299
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.93722069
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.437304361
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.938419292
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.703859353
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 6.627772998
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 4.969168822
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 6.096623512
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.526730178
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "213176_s_at",
+      "gene": "LTBP4",
+      "value": 5.01859957
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.266753516
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "215775_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.590236567
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 3.189671994
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.294360861
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "227989_at",
+      "gene": "LTBP4",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.29864865
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.26274201
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.477598183
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.299429852
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.973719143
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "235086_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941830",
+      "group": "control_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941831",
+      "group": "control_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941832",
+      "group": "control_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941833",
+      "group": "control_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941834",
+      "group": "control_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941835",
+      "group": "control_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941836",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.262450157
+    },
+    {
+      "sample": "GSM941837",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.28010197
+    },
+    {
+      "sample": "GSM941838",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941839",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941840",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941841",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941842",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941843",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941844",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941845",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941846",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.486087217
+    },
+    {
+      "sample": "GSM941847",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941848",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941849",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941850",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    },
+    {
+      "sample": "GSM941851",
+      "group": "DMD_muscle biopsy",
+      "probe": "239336_at",
+      "gene": "THBS1",
+      "value": 2.261654813
+    }
+  ],
+  "sensitivity": [
+    {
+      "snp": "rs2725797",
+      "gene": "THBS1",
+      "cohort": "n253",
+      "p": 6.6e-09,
+      "passes_5e_8": true,
+      "minus_log10_p": 8.18045606445813
+    },
+    {
+      "snp": "rs2725797",
+      "gene": "THBS1",
+      "cohort": "n243",
+      "p": 7.5e-07,
+      "passes_5e_8": false,
+      "minus_log10_p": 6.1249387366083
+    },
+    {
+      "snp": "rs2725797",
+      "gene": "THBS1",
+      "cohort": "n189",
+      "p": 3.8e-06,
+      "passes_5e_8": false,
+      "minus_log10_p": 5.42021640338319
+    },
+    {
+      "snp": "rs2624259",
+      "gene": "THBS1",
+      "cohort": "n253",
+      "p": 6.6e-09,
+      "passes_5e_8": true,
+      "minus_log10_p": 8.18045606445813
+    },
+    {
+      "snp": "rs2624259",
+      "gene": "THBS1",
+      "cohort": "n243",
+      "p": 8.3e-07,
+      "passes_5e_8": false,
+      "minus_log10_p": 6.080921907623926
+    },
+    {
+      "snp": "rs2624259",
+      "gene": "THBS1",
+      "cohort": "n189",
+      "p": 3.8e-06,
+      "passes_5e_8": false,
+      "minus_log10_p": 5.42021640338319
+    },
+    {
+      "snp": "rs710160",
+      "gene": "LTBP4",
+      "cohort": "n253",
+      "p": 4.7e-08,
+      "passes_5e_8": true,
+      "minus_log10_p": 7.327902142064283
+    },
+    {
+      "snp": "rs710160",
+      "gene": "LTBP4",
+      "cohort": "n243",
+      "p": 5.7e-07,
+      "passes_5e_8": false,
+      "minus_log10_p": 6.2441251443275085
+    },
+    {
+      "snp": "rs710160",
+      "gene": "LTBP4",
+      "cohort": "n189",
+      "p": 2.2e-06,
+      "passes_5e_8": false,
+      "minus_log10_p": 5.657577319177793
+    }
+  ],
+  "input_sha256": {
+    "GPL570.soft.gz": "45163ab436f8fa028351d6c3d0ecea2433e379d72a094ac1bcf2cfb0406d6cbe",
+    "GSE38417_series_matrix.txt.gz": "6e5545f9b2694749214d08a466ff91c6f382ac1ce3733623cb157ea20f02b7c1",
+    "weiss2018_table1.csv": "47a8641c84d8505475b86a764422043922b4dcd935590444ac3f2bac3feaf314"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "candidates": [
+    {
+      "id": "H1",
+      "question": "L’association des variants LTBP4 et THBS1 avec l’âge de perte de marche varie-t-elle selon l’exposition aux corticoïdes dans une cohorte indépendante d’UDP ?",
+      "hypothese": "Une interaction statistique génotype–exposition pourrait expliquer une partie de l’hétérogénéité des associations, parallèlement aux différences de population et de critères d’inclusion.",
+      "observations_rapportees": [
+        "S5 rapporte des indices d’interaction pour LTBP4/THBS1 dans UDP, sensibles aux inclusions : cette piste possède donc une antériorité directe.",
+        "S3 rapporte des associations dans UDP. Pour rs710160, les résultats fournis passent de p = 4,7e-8 dans n253 à 5,7e-7 dans n243 et 2,2e-6 dans n189.",
+        "S2 rapporte une association entre IAAM et marche prolongée ; S4 ne retrouve pas d’association IAAM/IAAM avec la perte de marche dans la cohorte chinoise.",
+        "S1 rapporte une association LTBP4 après contrôle de stratification."
+      ],
+      "references": ["S1", "S2", "S3", "S4", "S5"],
+      "objections": [
+        "S3 et S5 réutilisent UDP : leur convergence ne constitue pas une réplication indépendante.",
+        "La variation des p-values peut refléter la taille des échantillons, leur composition ou la précision des estimations ; elle ne démontre pas une interaction.",
+        "Stratification de population, génotype DMD, modalités d’exposition et sélection des patients peuvent produire des explications concurrentes.",
+        "Une interaction statistique observationnelle ne démontre ni interaction biologique ni effet causal des corticoïdes."
+      ],
+      "investigation_suivante": "Dans une cohorte indépendante, préspécifier les variants, les critères d’inclusion et un modèle du délai jusqu’à la perte de marche intégrant génotype, exposition temporelle aux corticoïdes et terme d’interaction. Rapporter tailles d’association et intervalles de confiance, traiter la multiplicité et examiner la sensibilité aux facteurs de confusion et aux exclusions.",
+      "statut": "question retenue",
+      "justification_du_choix": "La question cible une association déjà proposée dans S5 et une incertitude vérifiable : sa reproductibilité hors UDP et sa robustesse aux choix d’analyse.",
+      "formulation_excessive_ecartee": "Les variants LTBP4 et THBS1 déterminent causalement la réponse aux corticoïdes chez tous les patients DMD."
+    },
+    {
+      "id": "H2",
+      "question": "Les contrastes d’expression de SPP1 et THBS1 entre biopsies DMD et témoins reflètent-ils la composition cellulaire, une variation au sein des cellules ou des propriétés des sondes ?",
+      "hypothese": "Une partie des contrastes pourrait provenir de différences de composition tissulaire ; les discordances entre sondes pourraient aussi résulter de leur spécificité ou de signaux proches d’un plancher.",
+      "observations_rapportees": [
+        "Dans les 16 biopsies DMD et 6 témoins, SPP1 présente un delta de médianes de 6,2693 pour 209875_s_at, mais de 0 pour 1568574_x_at.",
+        "Pour THBS1, les deltas sont de 1,0029, 2,2921 et 3,5116 pour 201108_s_at, 201109_s_at et 201110_s_at ; plusieurs autres sondes ont des médianes identiques entre groupes.",
+        "D1 décrit des données d’expression, sans couplage génotype–progression ; D2 indique une annotation ancienne sans contrôle actuel de spécificité."
+      ],
+      "references": ["D1", "D2", "S1", "S2", "S4"],
+      "objections": [
+        "La composition cellulaire et un éventuel plancher technique sont des explications à tester, pas des observations établies ici.",
+        "Les résumés fournis ne permettent pas d’ajuster sur l’âge, le stade de maladie, les traitements ou les lots techniques.",
+        "L’expression peut être une conséquence des lésions plutôt qu’un déterminant de progression.",
+        "Les résultats génétiques de SPP1 ne sont pas interchangeables : S2 concerne rs28357094 ; le résultat positif de S4 concerne rs11730582 uniquement chez les patients avec génotype DMD tronquant et traités par corticoïdes."
+      ],
+      "investigation_suivante": "Vérifier la spécificité et les transcrits ciblés par chaque sonde, puis confronter les contrastes à des mesures indépendantes d’ARN et à la composition cellulaire des biopsies. Examiner ensuite les variations au sein d’un même type cellulaire, avec les covariables disponibles.",
+      "statut": "piste complémentaire",
+      "justification_verifiable": "La discordance entre sondes est directement visible dans les résultats fournis. Elle justifie une investigation de mesure avant toute interprétation globale au niveau du gène.",
+      "distinction_des_preuves": "Un contraste d’expression n’établit ni activité protéique, ni association génotype–progression, ni effet causal."
+    },
+    {
+      "id": "H3",
+      "question": "Des variants LTBP4 peuvent-ils modifier une activité liée à TGFβ sans contraste marqué d’expression globale de LTBP4 ?",
+      "hypothese": "Une variation fonctionnelle de la protéine pourrait modifier la régulation de TGFβ sans changement proportionnel de l’abondance de l’ARN.",
+      "observations_rapportees": [
+        "Les quatre sondes LTBP4 présentent des deltas de médianes de −0,0226, −0,2681, −0,8450 et −0,0164 ; ces valeurs ne démontrent pas une équivalence d’expression.",
+        "S3 et S5 proposent une interprétation impliquant TGFβ, sans fournir ici de mesure directe de son activité.",
+        "S6 rapporte, dans une prépublication animale, une expression souvent comparable malgré les effets modificateurs étudiés."
+      ],
+      "references": ["D1", "D2", "S2", "S3", "S4", "S5", "S6"],
+      "objections": [
+        "S6 fournit un précédent général sur la distinction expression–fonction, pas une démonstration spécifique du mécanisme LTBP4 chez l’humain.",
+        "Les associations humaines pourraient refléter un variant lié plutôt que l’effet fonctionnel du variant étudié.",
+        "Les résultats discordants entre populations limitent une interprétation universelle.",
+        "Les sondes, la composition cellulaire ou le moment du prélèvement peuvent masquer une variation d’expression pertinente."
+      ],
+      "investigation_suivante": "Comparer des modèles isogéniques portant des variants LTBP4 définis, mesurer séparément ARN, quantité et localisation protéiques, puis activité TGFβ. Associer une perturbation contrôlée à une expérience de restauration pour tester la dépendance du phénotype au variant.",
+      "statut": "piste mécanistique",
+      "justification_verifiable": "Le corpus distingue déjà expression comparable et rôle modificateur possible ; il propose également un réseau TGFβ. L’expérience examinerait ce lien sans le présupposer.",
+      "distinction_des_preuves": "Une perturbation contrôlée pourrait soutenir un effet causal dans le modèle étudié ; elle ne suffirait pas à établir un effet causal sur la perte de marche humaine."
+    }
+  ],
+  "limitations": [
+    "Analyse limitée aux données fournies, sans outil ni vérification externe. Les extractions du corpus ne sont pas vérifiées par un humain indépendant.",
+    "Les antériorités identifiées sont internes au corpus : notamment S5 pour les interactions, S3 pour le réseau proposé autour de TGFβ et S6 pour la distinction expression–fonction. Aucune exhaustivité bibliographique ni nouveauté n’est revendiquée.",
+    "Les résultats d’expression portent sur 22 échantillons et 13 sondes sélectionnées pour trois gènes. Ils ne constituent pas une exploration transcriptomique exhaustive.",
+    "Les médianes et extrêmes ne remplacent pas les données individuelles ; aucun test de significativité, intervalle de confiance ou ajustement n’est fourni pour ces contrastes.",
+    "L’échelle exacte des valeurs d’expression n’est pas explicitée ici ; les différences ne sont donc pas converties en rapports d’expression.",
+    "Une absence de significativité ne prouve pas l’absence d’effet. Le franchissement ou non d’un seuil de p-value ne mesure ni la taille d’un effet ni sa pertinence biologique.",
+    "Association génétique, expression d’ARN, activité biologique et effet causal constituent des niveaux de preuve distincts ; leur articulation reste à tester.",
+    "R1 est une annonce sur un système dont la fonction reste indéterminée ; R2 fournit un contexte institutionnel. Aucun des deux n’étaye les mécanismes DMD proposés.",
+    "Aucune validation clinique, recommandation de traitement, collaboration réelle ou partenariat institutionnel n’est revendiqué."
+  ]
+}

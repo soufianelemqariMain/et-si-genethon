@@ -1,0 +1,12 @@
+[
+  {
+    "file": "GSE38417_series_matrix.txt.gz",
+    "compressed_equal": true,
+    "decompressed_equal": true
+  },
+  {
+    "file": "GPL570.soft.gz",
+    "compressed_equal": true,
+    "decompressed_equal": true
+  }
+]

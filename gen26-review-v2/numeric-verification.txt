@@ -1,0 +1,2 @@
+{"sample_count": 22, "matrix_rows": 54675, "annotation_rows": 54675, "selected_probes": 13}
+PASS: empreintes, reproduction numérique exacte, références modèle autorisées. Pas une validation biologique.

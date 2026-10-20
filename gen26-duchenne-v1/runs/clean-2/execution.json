@@ -1,0 +1,10 @@
+{
+  "python": "3.9.6",
+  "platform": "macOS-26.2-arm64-arm-64bit",
+  "machine": "arm64",
+  "wall_seconds": 0.605906583,
+  "cpu_seconds": 0.5887370000000001,
+  "max_rss_raw": 43122688,
+  "max_rss_unit": "bytes",
+  "scope": "processus analyse seulement ; r\u00e9seau et inf\u00e9rence distante exclus"
+}

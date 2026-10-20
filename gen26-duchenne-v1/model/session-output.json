@@ -1,0 +1,42 @@
+{
+  "execution_kind": "generation par le modele actif de cette session Codex, sortie conservee via appel outil ; pas un appel API independant",
+  "model_declared_by_runtime_instructions": "GPT-6",
+  "exact_snapshot": null,
+  "temperature": null,
+  "seed": null,
+  "independent_validation": false,
+  "candidates": [
+    {
+      "id": "H1",
+      "question": "L'association des variants LTBP4/THBS1 avec l'evolution depend-elle du traitement et du contexte genetique ?",
+      "hypothesis": "Une modulation de la voie TGF-beta pourrait contribuer a une reponse heterogene aux corticoides ; la regulation de LTBP4 et THBS1 est une piste a examiner conjointement.",
+      "references": ["S1", "S2", "S3", "S4", "S5"],
+      "rationale_summary": "Convergence de publications humaines, mais effets sensibles aux populations, mutations DMD et definitions du traitement. Le lien mecanistique demeure une interpretation a tester.",
+      "decision": "retenue pour investigation, deja publiee, non decouverte",
+      "objections": ["Les cohortes UDP reapparaissent dans plusieurs publications : ne pas compter ces travaux comme repetitions independantes.", "GSE38417 ne relie pas les valeurs d'expression aux genotypes et a la perte de marche.", "Une baisse d'expression de LTBP4 dans une biopsie ne mesure pas la fonction d'un haplotype proteique.", "Les contrastes de sondes ne mesurent pas directement l'activite TGF-beta."],
+      "next_investigation": "Sur une cohorte independante autorisee, preregistrer l'interaction genotype-traitement avec mutation DMD, ascendance, censure et exposition temporelle ; demander une revue statistique et neuromusculaire."
+    },
+    {
+      "id": "H2",
+      "question": "SPP1 rs28357094 fournit-il un modificateur universel, independant des corticoides ?",
+      "hypothesis": "Une association unique pourrait generaliser sans stratification.",
+      "references": ["S1", "S2", "S4"],
+      "rationale_summary": "C'est une proposition forte utile a soumettre a contradiction, pas une conclusion des sources.",
+      "decision": "ecartee dans sa forme universelle",
+      "objections": ["S2 ne reproduit pas l'association de ce SNP avec la perte de marche.", "S1 souligne le contexte de traitement.", "S4 porte notamment sur un autre SNP : les marqueurs ne sont pas interchangeables.", "Une sonde SPP1 elevee chez les patients ne prouve aucun effet du genotype rs28357094."],
+      "next_investigation": "Une question restreinte a une population, un SNP et une exposition reste envisageable ; ne pas rejeter tout role biologique de SPP1."
+    },
+    {
+      "id": "H3",
+      "question": "Les differences d'expression dans les biopsies refletent-elles surtout leur composition cellulaire ?",
+      "hypothesis": "Une fraction variable de cellules inflammatoires et de tissu fibrotique pourrait expliquer une partie des contrastes entre biopsies, sans effet modificateur intrinseque des genes.",
+      "references": ["S3", "D1"],
+      "rationale_summary": "Explication concurrente plausible, proposee par le modele. La matrice globale ne separe pas les types cellulaires.",
+      "decision": "conservee comme explication concurrente non testee",
+      "objections": ["Pas de fractions cellulaires mesurees dans l'entree analysee.", "La deconvolution sans reference validee peut introduire un autre biais."],
+      "next_investigation": "Comparer a une reference cellulaire adaptee et a l'histologie, avec age et traitement ; ne pas convertir cette explication plausible en resultat observe."
+    }
+  ],
+  "numerical_observation": "13 sondes analysees, 16 DMD et 6 temoins. Trois des sept sondes THBS1 ont une difference de medianes positive ; quatre nulle. Les quatre LTBP4 ont une difference negative. SPP1 comporte une sonde positive et une nulle. Des valeurs au plancher limitent l'interpretation.",
+  "conclusion": "Demonstration d'enquete et de critique reproductible des calculs, pas validation d'un mecanisme, d'une interaction genetique ou d'une therapie. L'anteriorite S5 exclut de revendiquer une nouvelle hypothese genotype-corticoides/TGF-beta."
+}

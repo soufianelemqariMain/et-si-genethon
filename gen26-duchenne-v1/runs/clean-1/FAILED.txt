@@ -1,0 +1,1 @@
+Premier calcul : IndexError dans analyze.py, accès cells[0] sur une ligne vide de la matrice. Aucun résultat produit. Correction : ignorer les lignes CSV vides. Reprise dans clean-2, sans écraser ce dossier.

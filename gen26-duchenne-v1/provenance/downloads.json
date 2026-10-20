@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE38nnn/GSE38417/matrix/GSE38417_series_matrix.txt.gz",
+    "received_bytes": 4448709,
+    "file": "GSE38417_series_matrix.txt.gz",
+    "sha256": "6e5545f9b2694749214d08a466ff91c6f382ac1ce3733623cb157ea20f02b7c1"
+  },
+  {
+    "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL570&targ=self&form=text&view=full",
+    "received_bytes": 85642661,
+    "file": "GPL570.soft.gz",
+    "sha256": "45163ab436f8fa028351d6c3d0ecea2433e379d72a094ac1bcf2cfb0406d6cbe"
+  }
+]

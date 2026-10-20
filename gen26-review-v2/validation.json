@@ -1,0 +1,6 @@
+{
+  "input_check": "PASS: empreinte de l'entr\u00e9e ; aucun appel mod\u00e8le",
+  "negative_integrity_test": "PASS: altered input rejected before model call",
+  "numeric_v1": "PASS; see numeric-verification.txt",
+  "replay_script_full_inference_executed": false
+}
